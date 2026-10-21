@@ -29,3 +29,15 @@ As data experts, we look beyond basic averages to find hidden user patterns. Her
 *   **The Data:** Economics, Mathematics, and Computer Science all have similar total view counts.
 *   **The Trend:** Even though user volume is similar, **Economics content** creates a much higher intent to apply for jobs. 
 *   **The Insight:** Economics alone generated **161 successful job clicks**, outperforming Computer Science (114 clicks) by over 40%. This shows that Economics students use the platform with a stronger career-seeking mindset.
+
+---
+
+### Data Pipeline & Architecture
+
+#### Phase 1: Creating the Dataset (`dataset.py`)
+Using Python, a script simulates realistic student workflows. It applies mathematical rules to link longer watch times with higher job ad click probabilities.
+
+#### Phase 2: Data Cleaning (`clean_data.py`)
+A verification script checks the dataset for missing fields or duplicate rows. The clean data ensures all calculations are 100% accurate before moving to visual tools.
+
+---
