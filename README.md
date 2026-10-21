@@ -2,11 +2,12 @@
 **An End-to-End Case Study on Optimizing the E-Learning to Jobs Funnel**
 ---
 
-### 🏢 Project Overview
+### Project Overview
 Studyflix is the largest free e-learning and career platform for students in the DACH region. It has a unique business model: students watch educational videos for free, and corporate clients pay to post job ads. To keep corporate clients happy, Studyflix must successfully guide students from watching videos to applying for jobs.
 
 This project uses **Python (Pandas, NumPy)** and **Tableau** to analyze 1,000 student learning sessions. The goal is to find exactly where the platform loses users and how to increase job applications.
 
+*    **Live Project Link:** [View My Interactive Tableau Dashboard](https://public.tableau.com/app/profile/feruza.orifjonova/viz/StudyflixE-LearningFunnelAnalysis/StudyflixEngagementtoCareerFunnelOptimizationAnalytics)
  ---
 
  ### Focus: 3 Business Metrics
@@ -42,11 +43,10 @@ A verification script checks the dataset for missing fields or duplicate rows. T
 
 ---
 
-## 📊 Tableau Dashboard Visualizations
+## Tableau Dashboard Visualizations
 The clean dataset was exported to Tableau to create an executive dashboard for managers.
 
-*   🔗 **Live Project Link:** [View My Interactive Tableau Dashboard](https://tableau.com) *(Insert your live Tableau Public link here!)*
-
+*    **Live Project Link:** [View My Interactive Tableau Dashboard](https://public.tableau.com/app/profile/feruza.orifjonova/viz/StudyflixE-LearningFunnelAnalysis/StudyflixEngagementtoCareerFunnelOptimizationAnalytics)
 ### What the Visuals Show:
 *   **Chart 1 (Engagement Funnel):** Visually compares the **Average Watch Time** for students who clicked an ad vs. those who did not. It clearly shows that successful conversions average **13.51 minutes**, while dropouts average only **8.29 minutes**.
 *   **Chart 2 (Leaderboard):** Filters out all "No" clicks to show only the successful **"Yes" job applications** grouped by school subject. It immediately highlights Economics as the top revenue driver.
