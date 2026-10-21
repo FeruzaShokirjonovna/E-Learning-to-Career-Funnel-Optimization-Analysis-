@@ -41,3 +41,28 @@ Using Python, a script simulates realistic student workflows. It applies mathema
 A verification script checks the dataset for missing fields or duplicate rows. The clean data ensures all calculations are 100% accurate before moving to visual tools.
 
 ---
+
+## 📊 Tableau Dashboard Visualizations
+The clean dataset was exported to Tableau to create an executive dashboard for managers.
+
+*   🔗 **Live Project Link:** [View My Interactive Tableau Dashboard](https://tableau.com) *(Insert your live Tableau Public link here!)*
+
+### What the Visuals Show:
+*   **Chart 1 (Engagement Funnel):** Visually compares the **Average Watch Time** for students who clicked an ad vs. those who did not. It clearly shows that successful conversions average **13.51 minutes**, while dropouts average only **8.29 minutes**.
+*   **Chart 2 (Leaderboard):** Filters out all "No" clicks to show only the successful **"Yes" job applications** grouped by school subject. It immediately highlights Economics as the top revenue driver.
+
+---
+
+### Strategic Business Recommendations
+Based on these trends, Studyflix can implement three practical workflow changes:
+
+*   ** Implement a Mid-Video Ad Trigger:** Do not wait until the very end of a video to show job openings. Because the biggest user drop-off happens around the 8-minute mark, display an interactive job carousel at **Minute 6** to capture students while their attention is highest.
+*   ** Target Finance & Consulting Corporate Clients:** Since Economics students have the highest job conversion rate, the B2B sales team should prioritize signing corporate contracts with banks, consulting firms, and accounting companies.
+*   ** Gamify STEM Video Retentions:** Computer Science and Math videos have great potential but shorter watch times. Adding quick, interactive quizzes at minute 5 can help keep students engaged past the critical 12-minute breakpoint.
+
+
+
+
+
+
+
