@@ -56,9 +56,9 @@ The clean dataset was exported to Tableau to create an executive dashboard for m
 ### Strategic Business Recommendations
 Based on these trends, Studyflix can implement three practical workflow changes:
 
-*   ** Implement a Mid-Video Ad Trigger:** Do not wait until the very end of a video to show job openings. Because the biggest user drop-off happens around the 8-minute mark, display an interactive job carousel at **Minute 6** to capture students while their attention is highest.
-*   ** Target Finance & Consulting Corporate Clients:** Since Economics students have the highest job conversion rate, the B2B sales team should prioritize signing corporate contracts with banks, consulting firms, and accounting companies.
-*   ** Gamify STEM Video Retentions:** Computer Science and Math videos have great potential but shorter watch times. Adding quick, interactive quizzes at minute 5 can help keep students engaged past the critical 12-minute breakpoint.
+*   **Implement a Mid-Video Ad Trigger:** Do not wait until the very end of a video to show job openings. Because the biggest user drop-off happens around the 8-minute mark, display an interactive job carousel at **Minute 6** to capture students while their attention is highest.
+*   **Target Finance & Consulting Corporate Clients:** Since Economics students have the highest job conversion rate, the B2B sales team should prioritize signing corporate contracts with banks, consulting firms, and accounting companies.
+*   **Gamify STEM Video Retentions:** Computer Science and Math videos have great potential but shorter watch times. Adding quick, interactive quizzes at minute 5 can help keep students engaged past the critical 12-minute breakpoint.
 
 
 
